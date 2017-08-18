@@ -1,0 +1,3 @@
+# myrep
+home automachine
+its a program that controls all the household appliances ....
